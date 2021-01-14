@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2fb4291b-1c71-4d68-82f0-c9a115077a3c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://win-2008zapasowa:7071/Service1.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service11.xsd" MetadataType="Schema" ID="5d96db8a-0f88-46f0-99c8-5704d3ee76fa" SourceId="1" SourceUrl="http://win-2008zapasowa:7071/Service1.svc?xsd=xsd0" />
+    <MetadataFile FileName="Service111.xsd" MetadataType="Schema" ID="62d22581-36a4-4af6-b126-f2b613bc2c41" SourceId="1" SourceUrl="http://win-2008zapasowa:7071/Service1.svc?xsd=xsd1" />
+    <MetadataFile FileName="Service112.xsd" MetadataType="Schema" ID="2de5c6e2-3ab2-4c5a-aa2c-876ecba6c1d3" SourceId="1" SourceUrl="http://win-2008zapasowa:7071/Service1.svc?xsd=xsd2" />
+    <MetadataFile FileName="Service113.xsd" MetadataType="Schema" ID="8b80fd41-a58b-41b0-8eb9-574c9d73e449" SourceId="1" SourceUrl="http://win-2008zapasowa:7071/Service1.svc?xsd=xsd3" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="56aa09a6-bf23-42b9-8c0c-a962bc6d6155" SourceId="1" SourceUrl="http://win-2008zapasowa:7071/Service1.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

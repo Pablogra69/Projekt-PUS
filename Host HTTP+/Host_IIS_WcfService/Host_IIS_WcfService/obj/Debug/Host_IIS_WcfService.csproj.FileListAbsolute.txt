@@ -1,0 +1,41 @@
+E:\Informatyka\Hawryluk+\Projekt\Host\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.csprojAssemblyReference.cache
+E:\Informatyka\Hawryluk+\Projekt\Host\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.csproj.CoreCompileInputs.cache
+E:\Informatyka\Hawryluk+\Projekt\Host\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.dll.config
+E:\Informatyka\Hawryluk+\Projekt\Host\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.dll
+E:\Informatyka\Hawryluk+\Projekt\Host\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.pdb
+E:\Informatyka\Hawryluk+\Projekt\Host\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.dll
+E:\Informatyka\Hawryluk+\Projekt\Host\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.pdb
+E:\Informatyka\Hawryluk+\Projekt\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.dll.config
+E:\Informatyka\Hawryluk+\Projekt\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.dll
+E:\Informatyka\Hawryluk+\Projekt\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.pdb
+E:\Informatyka\Hawryluk+\Projekt\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.csprojAssemblyReference.cache
+E:\Informatyka\Hawryluk+\Projekt\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.csproj.CoreCompileInputs.cache
+E:\Informatyka\Hawryluk+\Projekt\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.dll
+E:\Informatyka\Hawryluk+\Projekt\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.pdb
+E:\Informatyka\Hawryluk+\Projekt\Wersja do porawek(lokalna)\kopie 08.01\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.dll.config
+E:\Informatyka\Hawryluk+\Projekt\Wersja do porawek(lokalna)\kopie 08.01\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.dll
+E:\Informatyka\Hawryluk+\Projekt\Wersja do porawek(lokalna)\kopie 08.01\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.pdb
+E:\Informatyka\Hawryluk+\Projekt\Wersja do porawek(lokalna)\kopie 08.01\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.csprojAssemblyReference.cache
+E:\Informatyka\Hawryluk+\Projekt\Wersja do porawek(lokalna)\kopie 08.01\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.csproj.CoreCompileInputs.cache
+E:\Informatyka\Hawryluk+\Projekt\Wersja do porawek(lokalna)\kopie 08.01\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.dll
+E:\Informatyka\Hawryluk+\Projekt\Wersja do porawek(lokalna)\kopie 08.01\Host\Host\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.pdb
+C:\Users\Exist\Desktop\Export\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.dll.config
+C:\Users\Exist\Desktop\Export\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.dll
+C:\Users\Exist\Desktop\Export\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.pdb
+C:\Users\Exist\Desktop\Export\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.csprojAssemblyReference.cache
+C:\Users\Exist\Desktop\Export\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.csproj.CoreCompileInputs.cache
+C:\Users\Exist\Desktop\Export\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.dll
+C:\Users\Exist\Desktop\Export\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.pdb
+E:\Informatyka\Hawryluk+\Projekt\Host\Host HTTP\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.dll.config
+E:\Informatyka\Hawryluk+\Projekt\Host\Host HTTP\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.dll
+E:\Informatyka\Hawryluk+\Projekt\Host\Host HTTP\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.pdb
+E:\Informatyka\Hawryluk+\Projekt\Host\Host HTTP\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.csproj.CoreCompileInputs.cache
+E:\Informatyka\Hawryluk+\Projekt\Host\Host HTTP\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.dll
+E:\Informatyka\Hawryluk+\Projekt\Host\Host HTTP\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.pdb
+E:\Informatyka\Hawryluk+\Projekt\Host\Host HTTP+\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.dll.config
+E:\Informatyka\Hawryluk+\Projekt\Host\Host HTTP+\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.dll
+E:\Informatyka\Hawryluk+\Projekt\Host\Host HTTP+\Host_IIS_WcfService\Host_IIS_WcfService\bin\Host_IIS_WcfService.pdb
+E:\Informatyka\Hawryluk+\Projekt\Host\Host HTTP+\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.csprojAssemblyReference.cache
+E:\Informatyka\Hawryluk+\Projekt\Host\Host HTTP+\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.csproj.CoreCompileInputs.cache
+E:\Informatyka\Hawryluk+\Projekt\Host\Host HTTP+\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.dll
+E:\Informatyka\Hawryluk+\Projekt\Host\Host HTTP+\Host_IIS_WcfService\Host_IIS_WcfService\obj\Debug\Host_IIS_WcfService.pdb

@@ -1,0 +1,19 @@
+﻿<Window x:Class="Client_WPF_1._0.Window_Image"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client_WPF_1._0"
+        mc:Ignorable="d"
+        Height="{Binding SystemParameters.PrimaryScreenHeight}" 
+      Width="{Binding SystemParameters.PrimaryScreenWidth}"
+      WindowStyle="None"
+      WindowState="Maximized" 
+        Title="Image"  
+        WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Image x:Name="MyImage" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" MouseDown="MyImage_MouseDown" KeyDown="MyImage_KeyDown" />
+        
+    </Grid>
+</Window>
